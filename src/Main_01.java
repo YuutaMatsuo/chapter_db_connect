@@ -42,6 +42,8 @@ public class Main_01 {
 			// int型の数値が戻り値として返ってくる！(更新行数)
 			// int rows = statement.executeQuery("insert into テーブル名(列リスト) values (値リスト)");
 
+			
+			
 			// 初めはカーソルが0行目の位置を指している
 			// カーソルを1行目に移動する
 //			resultSet.next(); // 次の行を指して…
